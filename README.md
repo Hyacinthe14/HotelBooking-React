@@ -13,11 +13,13 @@ Luxe Stays is designed for ease of use by guests and administrators, providing p
 - Quick Booking Form
 - Profile Overview with picture upload/download
 - Interactive UI elements
+- Multilanguages
 
 ### Admin Dashboard
 - Comprehensive user management
 - Role management and access control
 - Booking oversight
+- Multilanguages
 
 ### User Management
 - User Sorting, Filtering and Pagination
